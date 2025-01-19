@@ -25382,7 +25382,7 @@
       "cimguiname": "igImRsqrt",
       "defaults": {},
       "funcname": "ImRsqrt",
-      "location": "imgui_internal:465",
+      "location": "imgui_internal:463",
       "ov_cimguiname": "igImRsqrt_Float",
       "ret": "float",
       "signature": "(float)",

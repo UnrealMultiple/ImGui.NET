@@ -38,6 +38,7 @@ namespace CodeGenerator
             { "size_t", "uint" },
             { "ImGuiContext*", "IntPtr" },
             { "ImPlotContext*", "IntPtr" },
+            { "ImNodesMiniMapNodeHoveringCallbackUserData", "IntPtr" },
             { "EditorContext*", "IntPtr" },
             { "ImGuiMemAllocFunc", "IntPtr" },
             { "ImGuiMemFreeFunc", "IntPtr" },
